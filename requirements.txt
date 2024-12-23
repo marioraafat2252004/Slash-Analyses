@@ -1,0 +1,6 @@
+fastapi==0.115.6
+pandas==2.2.3
+protobuf==5.29.2
+pydantic==2.10.4
+python-dotenv==1.0.1
+uvicorn==0.34.0
